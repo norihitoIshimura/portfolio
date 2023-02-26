@@ -267,13 +267,13 @@ main{
       top: 50%;
       transform: translate(-50%, -50%);
       text-align: center;
-      font-size:3.5rem;
+      font-size:2.8rem;
       color:#fff;
       font-family: Arial;
       letter-spacing:0.1em;
     }
     .main_subtxt{
-      font-size:2rem;
+      font-size:1.6rem;
     }
     .h2_1{
       margin: 0 auto;
