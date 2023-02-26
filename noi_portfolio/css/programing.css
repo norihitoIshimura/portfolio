@@ -229,7 +229,7 @@ section p .p_line{
     }
     .sc{
     margin: 0 auto;
-    max-width: 87.5%;
-    padding: 0 6.25% 20px;
+    max-width: 85%;
+    padding: 0 7.5% 20px;
     }
 }
