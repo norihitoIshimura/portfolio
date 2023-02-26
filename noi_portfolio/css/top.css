@@ -405,7 +405,7 @@ main{
       font-family: Arial;
       letter-spacing:0.1em;
     }
-    .main_subtxt2{
+    .start p .main_subtxt2{
       font-size:1.5rem;
     }
 }
