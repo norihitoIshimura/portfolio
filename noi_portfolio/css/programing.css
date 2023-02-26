@@ -128,11 +128,9 @@ section p .p_line{
     border-color: #717071;
     color:#717071;
 }
-iframe{
+.sc{
     margin: 0 auto;
-    width: 79%;
-    padding: 0 10.5%;
-    height: 700px;
+    padding: 0 11.3% 30px;
 }
 .p_margin{
     padding-left:5.05%;
@@ -229,7 +227,7 @@ iframe{
     text-align: center;
     padding:40px 0;
     }
-    section iframe{
+    .sc{
     margin: 0 auto;
     max-width: 87.5%;
     padding: 0 6.25% 20px;
